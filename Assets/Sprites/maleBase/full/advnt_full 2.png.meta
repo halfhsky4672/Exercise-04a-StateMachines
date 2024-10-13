@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d9256c28d1325ca4ea696dd291bd3158
+guid: 36c79435a6d83f74d8bcea8b03efeb83
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -1222,27 +1222,6 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: advnt_full_53
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 238
-        width: 320
-        height: 398
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af53bd7ceb55cee46b71a2c41b3d44fb
-      internalID: 1641339539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1303,7 +1282,6 @@ TextureImporter:
       advnt_full_50: -426411525
       advnt_full_51: 977528686
       advnt_full_52: 26052834
-      advnt_full_53: 1641339539
       advnt_full_6: -466427907
       advnt_full_7: 1918472703
       advnt_full_8: -1365766611
